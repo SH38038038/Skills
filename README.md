@@ -69,3 +69,38 @@
     </td>
   </tr>
 </table>
+
+<h3>📂 Projects</h3>
+
+<table style="width:100%; border-collapse: collapse; margin-top: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="padding: 12px; border: 1px solid #ddd;">Duration</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Project</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Role</th>
+      <th style="padding: 12px; border: 1px solid #ddd;">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;">2024.01 – 2024.02</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://github.com/xyz987164/chaesiktak-BE" target="_blank" style="color: #0366d6; font-weight: bold; text-decoration: none;">Chaesiktak</a>
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">Backend Developer</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        Spring Boot, Docker, AWS, MySQL
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;">2024.03 – 2024.06</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://github.com/xyz987164/ReCloset-BE" target="_blank" style="color: #28a745; font-weight: bold; text-decoration: none;">ReCloset</a>
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">Backend Developer & Lead Ideator</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        Spring Boot, Docker, GCP, MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
