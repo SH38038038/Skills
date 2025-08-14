@@ -99,20 +99,20 @@
       <td style="padding: 12px; border: 1px solid #ddd;">Spring Boot, Docker, GCP, MySQL</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">2025.03 – 2025.06</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">
-        <a href="https://github.com/SH38038038/moyora-BE" target="_blank" style="color: #ff9800; font-weight: bold; text-decoration: none;">Moyora</a>
-      </td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Project Manager & Solo Backend Developer</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Spring Boot, Docker, GCP, Redis, MySQL, Elasticsearch, OAuth2, JWT, AES, SSE, WebSocket</td>
-    </tr>
-    <tr>
       <td style="padding: 12px; border: 1px solid #ddd;">2025.04 – 2025.07</td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://github.com/SH38038038/ICEY-BE" target="_blank" style="color: #17a2b8; font-weight: bold; text-decoration: none;">ICEY</a>
       </td>
       <td style="padding: 12px; border: 1px solid #ddd;">Backend Lead Developer</td>
       <td style="padding: 12px; border: 1px solid #ddd;">Spring Boot, SSE, GCP, MySQL, Gemini API</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;">2025.03 – 2025.08</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">
+        <a href="https://github.com/SH38038038/moyora-BE" target="_blank" style="color: #ff9800; font-weight: bold; text-decoration: none;">Moyora</a>
+      </td>
+      <td style="padding: 12px; border: 1px solid #ddd;">Project Manager & Solo Backend Developer</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">Spring Boot, Docker, GCP, Redis, MySQL, Elasticsearch, OAuth2, JWT, AES, SSE, WebSocket</td>
     </tr>
   </tbody>
 </table>
