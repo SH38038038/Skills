@@ -11,6 +11,7 @@
   <a><img src="https://img.shields.io/badge/SSE-FF9900?style=flat-square&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 </div>
 
 
@@ -39,8 +40,9 @@
     <td style="border: none; vertical-align: top; padding: 10px;">
       <p><strong>🛢 DB / Cache / Search</strong></p>
       <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+      <a><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
       <a><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a><br>
-      <a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+      <a><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a> 
     </td>
     <td style="border: none; vertical-align: top; padding: 10px;">
       <p><strong>☁️ Infra / DevOps</strong></p>
