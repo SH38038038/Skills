@@ -85,7 +85,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">2024.01 – 2024.02</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">2025.01 – 2025.02</td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://github.com/xyz987164/chaesiktak-BE" target="_blank" style="color: #0366d6; font-weight: bold; text-decoration: none;">Chaesiktak</a>
       </td>
@@ -93,7 +93,7 @@
       <td style="padding: 12px; border: 1px solid #ddd;">Spring Boot, Docker, AWS, MySQL</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;">2024.03 – 2024.06</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">2025.03 – 2025.05</td>
       <td style="padding: 12px; border: 1px solid #ddd;">
         <a href="https://github.com/xyz987164/ReCloset-BE" target="_blank" style="color: #28a745; font-weight: bold; text-decoration: none;">ReCloset</a>
       </td>
