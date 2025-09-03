@@ -16,7 +16,6 @@
 
 
 ![song](https://github.com/user-attachments/assets/a82e58b5-87f5-492c-ae61-4ed8c3076d94) 
-
 <h3>🛠️ SKILLS</h3>
 <table style="border-collapse: collapse; border: none; width: 100%;">
   <tr>
@@ -27,7 +26,9 @@
       <a><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
       <a><img src="https://img.shields.io/badge/Spring Data JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></a><br>
       <a><img src="https://img.shields.io/badge/JWT-black?style=flat-square"/></a>
-      <a><img src="https://img.shields.io/badge/OAuth2-2C3E50?style=flat-square"/></a>
+      <a><img src="https://img.shields.io/badge/OAuth2-2C3E50?style=flat-square"/></a><br>
+      <a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+      <a><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>
     </td>
     <td style="border: none; vertical-align: top; padding: 10px;">
       <p><strong>🧠 AI Integration / Scripting</strong></p>
@@ -60,6 +61,7 @@
       <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a><br>
       <a><img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
       <a><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
+      <a><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
     </td>
     <td style="border: none; vertical-align: top; padding: 10px;">
       <p><strong>🤝 Collaboration</strong></p>
